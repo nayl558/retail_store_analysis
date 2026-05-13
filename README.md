@@ -73,5 +73,5 @@ The primary goal of this project was to better understand:
 
 <h2> Tableau Dashboard </h2>
 
-[Tableau Link](https://www.google.com)
+[Tableau Link](https://public.tableau.com/views/RetailSalesAnalysis_17784999530590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
